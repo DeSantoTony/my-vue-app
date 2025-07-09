@@ -1,0 +1,12 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    // Other compiler options...
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true
+  },
+}
